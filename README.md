@@ -14,3 +14,7 @@ Datasets:
 PASCAL VOC 2007, 2012, 
 ILSVRC
 MS COCO
+
+
+Other papers:
+[https://github.com/muupan/deep-reinforcement-learning-papers](Muupan)
