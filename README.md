@@ -2,6 +2,8 @@
 
 *    [Deep Neural Networks for Object Detection](http://papers.nips.cc/paper/5207-deep-neural-networks-for-object-detection.pdf) - Szegedy, Toshev, Erhan: Classical object detection on Pascal VOC
 *    [Active Object Localization with Deep Reinforcement Learning](http://web.engr.illinois.edu/~slazebni/publications/iccv15_active.pdf) Caicedo, Lazebnik
+*    [Overfeat: Integrated Recognition, Localization and Detection
+using Convolutional Networks](http://arxiv.org/pdf/1312.6229v4.pdf) Sermanet, Eigen, Zhang, Mathieu, Fergus, LeCun
 *    [Faster R-CNN](http://arxiv.org/pdf/1506.01497v3.pdf) Ren, He, Girshick, Sun
 *    [Instance aware Semantic Segmentation via Multi-task Network Cascades](http://arxiv.org/pdf/1512.04412.pdf) Dai, He, Sun
 
@@ -13,6 +15,7 @@
 *    [Learning a similarity metric discriminatively with application to face verification](http://yann.lecun.com/exdb/publis/pdf/chopra-05.pdf) LeCun, Chopra, Hadsell - the Energy function
 *    [Signature verification using a Siamese Time Delay Neural Network](https://papers.nips.cc/paper/769-signature-verification-using-a-siamese-time-delay-neural-network.pdf) LeCun, Bromley, Guyon, Sackinger, Shah - initial(?) paper on siamese neural networks.
 *    [Tutorial in Caffe](http://caffe.berkeleyvision.org/gathered/examples/siamese.html)
+
 
 Datasets:
 PASCAL VOC 2007, 2012, 
