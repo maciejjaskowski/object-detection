@@ -8,6 +8,9 @@
 *    [LSDA: Large Scale Detection Through Adaptation](http://arxiv.org/pdf/1407.5035v3)
 
 *    [Visualizing and understanding Neural Networks](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)  Zeiler, Fergus
+
+*    [Learning a similarity metric discriminatively with application to face verification](http://yann.lecun.com/exdb/publis/pdf/chopra-05.pdf) LeCun, Chopra, Hadsell - the Energy function
+*    [Signature verification using a Siamese Time Delay Neural Network](https://papers.nips.cc/paper/769-signature-verification-using-a-siamese-time-delay-neural-network.pdf) LeCun, Bromley, Guyon, Sackinger, Shah - initial(?) paper on siamese neural networks.
     
 
 Datasets:
